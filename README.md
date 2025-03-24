@@ -5,3 +5,5 @@ Folders where to put these files
 alacritty.toml   > $HOME/.config/alacritty/
 asound.conf      > /etc/
 xmonad.hs        > $HOME/.config/xmonad/
+.bashrc          > $HOME/
+.xinitrc         > $HOME/
